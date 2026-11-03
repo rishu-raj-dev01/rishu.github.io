@@ -1,1 +1,1 @@
-# rishu.portfolio.io
+# rishuportfolio.github.io
